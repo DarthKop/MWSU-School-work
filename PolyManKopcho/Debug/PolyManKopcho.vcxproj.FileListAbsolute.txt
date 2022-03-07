@@ -1,0 +1,2 @@
+C:\Users\Thomas\Desktop\csc328(fall2020)\PolyManKopcho\Debug\PolyManKopcho.exe
+C:\Users\Thomas\Desktop\csc328(fall2020)\PolyManKopcho\Debug\PolyManKopcho.pdb

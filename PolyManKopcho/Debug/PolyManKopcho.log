@@ -1,0 +1,15 @@
+﻿  PolyManKopcho.cpp
+C:\Users\Thomas\Desktop\csc328(fall2020)\PolyManKopcho\PolyManKopcho.cpp(100,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Thomas\Desktop\csc328(fall2020)\PolyManKopcho\PolyManKopcho.cpp(128,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Thomas\Desktop\csc328(fall2020)\PolyManKopcho\PolyManKopcho.cpp(169,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Thomas\Desktop\csc328(fall2020)\PolyManKopcho\PolyManKopcho.cpp(175,35): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\Thomas\Desktop\csc328(fall2020)\PolyManKopcho\PolyManKopcho.cpp(175,27): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\Thomas\Desktop\csc328(fall2020)\PolyManKopcho\PolyManKopcho.cpp(268,21): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Thomas\Desktop\csc328(fall2020)\PolyManKopcho\PolyManKopcho.cpp(269,22): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Thomas\Desktop\csc328(fall2020)\PolyManKopcho\PolyManKopcho.cpp(284,21): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Thomas\Desktop\csc328(fall2020)\PolyManKopcho\PolyManKopcho.cpp(285,22): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Thomas\Desktop\csc328(fall2020)\PolyManKopcho\PolyManKopcho.cpp(304,21): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Thomas\Desktop\csc328(fall2020)\PolyManKopcho\PolyManKopcho.cpp(305,22): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Thomas\Desktop\csc328(fall2020)\PolyManKopcho\PolyManKopcho.cpp(314,21): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Thomas\Desktop\csc328(fall2020)\PolyManKopcho\PolyManKopcho.cpp(315,22): warning C4305: '-=': truncation from 'double' to 'float'
+  PolyManKopcho.vcxproj -> C:\Users\Thomas\Desktop\csc328(fall2020)\PolyManKopcho\Debug\PolyManKopcho.exe
